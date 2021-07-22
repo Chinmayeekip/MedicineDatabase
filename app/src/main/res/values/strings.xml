@@ -1,0 +1,13 @@
+<resources>
+<string name="app_name">Medicine_Alert_DataBase_final</string>
+<string name="MedicineName">Name</string>
+<string name="date_format">DD/MM/YYYY</string>
+<string name="medicine_time">Time</string>
+<string name="date">Date</string>
+<string name="Medine_name1">Medicine Name:</string>
+<string name="Date1">Date:</string>
+<string name="time1">Time of the Day:</string>
+<string name="btn_viewww">View</string>
+<string name="insert">Insert</string>
+<string name="date_format1">dd-mm-yyyy</string>
+</resources>
